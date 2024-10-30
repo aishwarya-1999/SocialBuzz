@@ -45,12 +45,12 @@ To download and interact with the file, please click [here](https://github.com/a
 3. **Least Engaging Categories:** Public Speaking and Soccer are among the categories with fewer posts and lower engagement.
 
 ## 📈 Trend Analysis
-**Yearly Trends:** Engagement in all content types shows a decline in 2021 compared to 2020, which could imply a saturation point or changing user preferences.
-**Monthly Trends:** Engagement fluctuates, with notable peaks in certain months. This could be due to seasonal trends or content updates.
-**Weekly and Daily Trends:** Engagement is higher on certain days, with notable peaks on Sundays and Wednesdays. Additionally, photos and videos show higher hourly engagement trends compared to audio.
+1. **Yearly Trends:** Engagement in all content types shows a decline in 2021 compared to 2020, which could imply a saturation point or changing user preferences.
+2. **Monthly Trends:** Engagement fluctuates, with notable peaks in certain months. This could be due to seasonal trends or content updates.
+3. **Weekly and Daily Trends:** Engagement is higher on certain days, with notable peaks on Sundays and Wednesdays. Additionally, photos and videos show higher hourly engagement trends compared to audio.
 
 ## Recommendations
-**Focus on High-Engagement Categories:** Invest in content related to Animals and Science, as they consistently show strong engagement and positive sentiment.
-**Improve Content Strategy for Low-Engagement Categories:** For categories like Public Speaking and Soccer, consider strategies to boost their relevance or re-evaluate their positioning.
-**Monitor Declining Yearly Trends:** Investigate the causes behind declining engagement from 2020 to 2021 and explore new content ideas to reinvigorate user interest.
-**Optimize Posting Times:** Utilize peak times such as Sundays and Wednesdays for content releases to maximize user engagement, especially for photo and video content types.
+1. **Focus on High-Engagement Categories:** Invest in content related to Animals and Science, as they consistently show strong engagement and positive sentiment.
+2. **Improve Content Strategy for Low-Engagement Categories:** For categories like Public Speaking and Soccer, consider strategies to boost their relevance or re-evaluate their positioning.
+3. **Monitor Declining Yearly Trends:** Investigate the causes behind declining engagement from 2020 to 2021 and explore new content ideas to reinvigorate user interest.
+4. **Optimize Posting Times:** Utilize peak times such as Sundays and Wednesdays for content releases to maximize user engagement, especially for photo and video content types.
